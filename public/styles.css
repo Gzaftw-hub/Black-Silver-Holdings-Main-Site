@@ -52,3 +52,4 @@ footer a:hover{color:var(--silver-hi)}
 .uc .bar{width:200px;height:3px;margin:24px auto;background:linear-gradient(90deg,transparent,var(--silver),transparent)}
 .uc p{max-width:520px;margin:0 auto}
 @media(max-width:760px){.nav .wrap{height:76px;padding:0 14px}.brand img{height:62px}nav ul{display:none}.hero{padding-top:50px}}
+.plogo{width:100%;max-width:300px;height:auto;margin:0 0 18px}
