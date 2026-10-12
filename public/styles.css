@@ -65,3 +65,9 @@ footer a:hover{color:var(--silver-hi)}
 @media(prefers-reduced-motion:reduce){.track{animation:none}}
 .pitem.bs{display:flex;align-items:center;gap:12px}.pitem.bs img{height:56px}.pitem.bs span{font-family:var(--serif);letter-spacing:.14em;text-transform:uppercase;color:var(--silver-hi);font-size:.8rem}
 .social{display:flex;justify-content:center;gap:14px;margin:26px 0 0}.social a{width:40px;height:40px;border:1px solid var(--silver-dim);border-radius:50%;display:grid;place-items:center;color:var(--silver);transition:.2s}.social a:hover{background:var(--silver-hi);color:var(--ink);border-color:var(--silver-hi)}.social svg{width:18px;height:18px}.social a.soon{opacity:.55}footer .social{margin:6px 0 20px}
+.hero{position:relative;overflow:hidden;min-height:calc(100vh - 96px);display:flex;flex-direction:column;justify-content:center;padding:70px 0 50px}
+.hero>.wrap{position:relative;z-index:2}
+.hero-video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:0}
+.hero-shade{position:absolute;inset:0;z-index:1;background:linear-gradient(180deg,rgba(13,13,15,.55),rgba(13,13,15,.45) 50%,rgba(13,13,15,.92))}
+.hero h1,.hero p{text-shadow:0 2px 18px rgba(0,0,0,.7)}
+@media(prefers-reduced-motion:reduce){.hero-video{display:none}}
