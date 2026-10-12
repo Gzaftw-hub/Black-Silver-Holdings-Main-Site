@@ -64,3 +64,4 @@ footer a:hover{color:var(--silver-hi)}
 @keyframes scroll{to{transform:translateX(-100%)}}
 @media(prefers-reduced-motion:reduce){.track{animation:none}}
 .pitem.bs{display:flex;align-items:center;gap:12px}.pitem.bs img{height:56px}.pitem.bs span{font-family:var(--serif);letter-spacing:.14em;text-transform:uppercase;color:var(--silver-hi);font-size:.8rem}
+.social{display:flex;justify-content:center;gap:14px;margin:26px 0 0}.social a{width:40px;height:40px;border:1px solid var(--silver-dim);border-radius:50%;display:grid;place-items:center;color:var(--silver);transition:.2s}.social a:hover{background:var(--silver-hi);color:var(--ink);border-color:var(--silver-hi)}.social svg{width:18px;height:18px}.social a.soon{opacity:.55}footer .social{margin:6px 0 20px}
