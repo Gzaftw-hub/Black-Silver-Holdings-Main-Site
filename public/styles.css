@@ -78,3 +78,9 @@ footer a:hover{color:var(--silver-hi)}
 .hero h1,.hero p{text-shadow:0 2px 18px rgba(0,0,0,.7)}
 @media(prefers-reduced-motion:reduce){.hero-video{display:none}}
 .strip{padding:44px 0;border-bottom:1px solid var(--line);background:rgba(255,255,255,.02)}.strip .marq{margin-top:0}
+.teamsec{padding:90px 0}.people{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:26px;margin-top:46px}
+.person{text-align:center;padding:22px 18px 26px;border:1px solid var(--line);background:linear-gradient(160deg,var(--graphite),var(--charcoal));transition:.25s}
+.person:hover{border-color:var(--silver);transform:translateY(-4px);box-shadow:0 18px 40px rgba(0,0,0,.55)}
+.person img{width:100%;aspect-ratio:1/1;object-fit:cover;object-position:top;filter:grayscale(.25);margin-bottom:18px}
+.person h3{font-family:var(--serif);color:var(--silver-hi);font-size:1.1rem;letter-spacing:.05em}
+.person span{display:block;margin-top:6px;font-size:.72rem;letter-spacing:.2em;text-transform:uppercase;color:var(--silver-dim)}
