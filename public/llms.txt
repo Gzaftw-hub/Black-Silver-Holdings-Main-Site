@@ -1,0 +1,22 @@
+# Black Silver Holdings
+
+> Black Silver Holdings is a diversified holding company with divisions spanning technology, health, labs, real estate, payroll, wealth management and insurance.
+
+Site: https://blacksilverholdings-demo.pages.dev/
+YouTube: https://www.youtube.com/@BlackSilverHoldings
+
+## Divisions
+- [Black Silver Technologies](https://thetechofblacksilver.futuristic-site.workers.dev): Live. Technology and intelligence platforms, including water intelligence.
+- [Black Silver Labs](https://blacksilverlabs.pages.dev): Live. A creative studio that builds custom websites, apps, games and videos, with a library of ready-made designs tailored to each client.
+- [Black Silver Health](https://blacksilverholdings-demo.pages.dev/health.html): Under construction.
+- [Black Silver Real Estate](https://blacksilverholdings-demo.pages.dev/real-estate.html): Under construction.
+- [Black Silver Payroll](https://blacksilverholdings-demo.pages.dev/payroll.html): Under construction.
+- [Black Silver Wealth Management](https://blacksilverholdings-demo.pages.dev/wealth-management.html): Under construction.
+- [Black Silver Insurance](https://blacksilverholdings-demo.pages.dev/insurance.html): Under construction.
+
+## Partners
+- [Eco-Urban Designs](https://eco-urbandesigns.com/): A design-build firm delivering cost-effective, buildable sustainable design solutions that combine architecture, engineering and general contracting expertise.
+
+## Other pages
+- [Invest](https://blacksilverholdings-demo.pages.dev/invest.html): Under construction.
+- [Team](https://blacksilverholdings-demo.pages.dev/team.html): Under construction.

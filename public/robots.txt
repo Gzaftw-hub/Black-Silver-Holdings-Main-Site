@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://blacksilverholdings-demo.pages.dev/sitemap.xml
