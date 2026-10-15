@@ -84,3 +84,4 @@ footer a:hover{color:var(--silver-hi)}
 .person img{width:100%;aspect-ratio:1/1;object-fit:cover;object-position:top;filter:grayscale(.25);margin-bottom:18px}
 .person h3{font-family:var(--serif);color:var(--silver-hi);font-size:1.1rem;letter-spacing:.05em}
 .person span{display:block;margin-top:6px;font-size:.72rem;letter-spacing:.2em;text-transform:uppercase;color:var(--silver-dim)}
+.pitem.lab{display:flex;align-items:center;gap:12px}.pitem.lab img{height:56px}.pitem.lab span{display:flex;flex-direction:column;font-family:var(--serif);text-transform:uppercase;line-height:1.15;color:var(--silver-hi)}.pitem.lab b{font-size:.85rem;letter-spacing:.16em;font-weight:600}.pitem.lab small{font-size:.7rem;letter-spacing:.5em;color:var(--silver-dim)}
